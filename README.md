@@ -47,7 +47,7 @@ This project was developed by a me, Dharshana.s, Harshini.A working collaborativ
 
    * The app is designed to offer an interactive and intuitive experience. The **"Predict Delivery Time"** button initiates the prediction process based on the given input values.
 
-### **Technology Stack**
+### **Technology Used**
 
 * **Streamlit**: A Python framework for creating interactive web applications. It provides an easy way to build UI components like sliders, text boxes, and buttons.
 * **Keras (with TensorFlow)**: A high-level deep learning API used for training and running the **LSTM model**.
