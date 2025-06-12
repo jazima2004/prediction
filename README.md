@@ -10,7 +10,7 @@ This project is a **team-developed Streamlit web application** designed to predi
 
 ### **Team Collaboration**
 
-This project was developed by a me, Dharshana.s, Harshini.A working collaboratively to design and deploy an efficient solution for food delivery services. The team was responsible for:
+This project was developed by  me and my teamates namely Dharshana.s, Harshini.A working collaboratively to design and deploy an efficient solution for food delivery services. The team was responsible for:
 
 * **Data Collection & Preparation**: Gathering historical delivery data and preprocessing it for training the model.
 * **Model Development**: Building and fine-tuning the **LSTM model** for accurate prediction of delivery times.
