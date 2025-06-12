@@ -1,6 +1,5 @@
 # Food Delivery Time prediction
 <img src="Appimage.png" >
-Certainly! Here's the updated version of the **Food Delivery Time Prediction App** summary, with mention of it being a **team project**:
 
 ---
 ## **Food Delivery Time Prediction App**
